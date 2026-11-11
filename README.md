@@ -4,7 +4,7 @@ A simple Cookie Clicker game written in Python. Click the cookie to earn points,
 
 ## Demo
 
-![Uploading 307 cookies - Cookie Clicker - Google Chrome 2026-11-11 20-14-26.gif…]()
+<img width="1296" height="1000" alt="307 cookies - Cookie Clicker - Google Chrome 2026-11-11 20-14-26" src="https://github.com/user-attachments/assets/23ce78a2-e8a1-468d-a31e-ad136a5fac2e" />
 
 
 ## Features
